@@ -7,7 +7,6 @@ import { CTA } from "@/components/cta"
 export default function HomePage() {
   return (
     <div className="min-h-screen">
-      <Header />
       <main>
         <Hero />
         <CodePreview />
